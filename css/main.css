@@ -1,0 +1,265 @@
+#box {
+	width: 500px;
+	height: 500px;
+	margin: 0 auto;
+}
+
+.col-1-2 {
+	width: 50vw;
+	display: inline-block;
+	vertical-align: top;
+
+}
+
+.right {
+	/*background-color: pink;*/
+	padding-top: 5px;
+	padding-right: 25px;
+}
+
+.left {
+	/*background-color: red;*/
+}
+
+
+html {
+	background-color: #FFE0AF;
+}
+
+
+body {
+	background-color: white;
+}
+
+header {
+	height: 40px;
+	width: 100%;
+	/*box-shadow: 0 3px 2px -2px #ccc;*/
+	background-color: #FFE0AF;
+	/*background-color: #6069A4;*/
+	border-bottom: 1px solid grey;
+	margin-bottom: 30px;
+}
+
+h2 {
+	font-family: 'Avenir', sans-serif;
+	margin: 0 auto 15px;
+	/*text-align: center;*/
+	font-size: 35px;
+	letter-spacing: 0.75px;
+	font-weight: bold;
+}
+
+
+.description {
+	font-family: 'Roboto';
+	font-size: 14px;
+	font-weight: bold;
+	color: #555;
+	width: 75%;
+	line-height: 125%;
+	display: inline-block;
+
+}
+
+.MathJax_Display {
+	text-align: left !important;
+	margin: 0 !important;
+	padding: 0 0 0px 0px;
+	display: inline-block !important;
+}
+
+.MathJax_Display:focus {
+	outline: none !important;
+	border: none !important;
+}
+
+
+.MathJax {
+	vertical-align: middle !important;
+	font-size: 14px !important;
+}
+
+.eq-com-row {
+	/*height: 60px;*/
+	/*background-color: pink;*/
+	width: 100%;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	height: 145%;
+}
+
+.eq-com, .com-units .hide-button, .hide-button-spacer, .com-explanation, .add-info-spacer, .add-info {
+	vertical-align: middle;
+}
+
+.eq-com {
+	/*background-color: green;*/
+	display: inline-block;
+	font-size: 16px;
+	font-style: italic;
+	width: 40px;
+	/*text-align: center;*/
+	padding-left: 15px;
+}
+
+.com-units {
+	/*background-color: yellow;*/
+	display: inline-block;
+	width: 70px;
+	text-align: center;
+	/*margin-left: 15px;*/
+}
+
+.com-explanation {
+	display: inline-block;
+	font-family: 'Roboto';
+	font-size: 13px;
+	color: #555;
+	width: 250px;
+	margin-left: 10px;
+	line-height: 125%;
+}
+
+
+footer {
+	background-color: #FFE0AF;
+	height: 80px;
+	width: 100%;
+	border-top: 1px solid grey;
+}
+
+
+.spacer {
+	height: 400px;
+	width: 20px;
+}
+
+
+.hide-button-container, .hide-button-spacer {
+	display: inline-block;
+	width: 30px;
+	height: 30px;
+}
+
+.hide-button {
+	display: inline-block;
+	text-align: center;
+	border-radius: 2px;
+	border: 1px solid #ccc;
+	background-color: white;
+	color: #fff;
+	transition: border-color 0.15s ease-out;
+}
+
+.hide-button:focus {
+	outline: none;
+}
+
+.hide-button:hover {
+	cursor: pointer;
+	border-color: #555;
+}
+
+.viewing {
+	border-color: #555;
+}
+
+
+nav.right-col-nav {
+	font-family: 'Avenir';
+	padding-bottom: 5px;
+	border-bottom: 1px solid grey;
+}
+
+ul.learn-sections {
+	/*background-color: green;*/
+}
+
+.learn-sections li {
+	display: inline-block;
+	margin-left: 10px;
+	font-size: 10px;
+	color: #56546A;
+}
+
+.summary-container {
+	padding-left: 10px;
+	padding-top: 30px;
+}
+
+#summary {
+	font-weight: bold;
+}
+
+.banner-container {
+	padding-bottom: 40px;
+}
+
+.col-1-3 {
+	width: 33%;
+	display: inline-block;
+}
+
+.col-2-3 {
+	width: 67%;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+
+
+.gfont {
+	font-family: 'Avenir';
+}
+
+.add-info, .add-info-spacer {
+	/*display: inline-block;*/
+	display: none;
+	width: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
